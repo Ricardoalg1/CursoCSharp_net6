@@ -18,6 +18,7 @@ namespace CursoCSharp_1_colecciones
 
             //Hastable
             Hashtable hastable = new Hashtable();
+            System.Console.WriteLine(" Unboxing");
         }
     }
 }
